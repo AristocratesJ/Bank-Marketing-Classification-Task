@@ -9,4 +9,4 @@ The goal of this project is to introduce us to ML model creation processes. It's
 ## Validation
 Additionally we're being validated by one team as well as validating the next team. The validators need to help the modelers and correct them in case of wrong decision making at each stage of the project. Finally they'll make a short validation report of what they've done to improve their colleagues models.
 ## Data
-We are basing on data from the Kaggle [dataset](https://www.kaggle.com/datasets/adilashrafi/bank-marketing-classification-task/data) which reprezents a direct marketing campaign of a Portuguese banking institution. Our target is to predict if a client subscribed to a term deposit or not (variable y) by using available features collected during a meeting/call.
+We are basing on data from the Kaggle [dataset](https://www.kaggle.com/datasets/adilashrafi/bank-marketing-classification-task/data) which represents a direct marketing campaign of a Portuguese banking institution. Our target is to predict if a client subscribed to a term deposit or not (variable y) by using available features collected during a meeting/call.
